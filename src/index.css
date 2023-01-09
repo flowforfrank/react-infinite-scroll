@@ -1,0 +1,23 @@
+body {
+    background: #20232A;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0 4px 10px 0 rgba(33, 33, 33, 0.15);
+}
+
+article {
+    border-radius: 3px;
+    background: #FFF;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#app {
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.loader {
+    text-align: center;
+    color: #FFF;
+    margin-top: 20px;
+}
